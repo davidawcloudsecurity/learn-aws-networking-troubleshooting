@@ -6,6 +6,7 @@ How to trouble aws networking (vpc peering)
 - [ ] https://docs.aws.amazon.com/vpc/latest/tgw/transit-gateway-peering-scenario.html
 
 ## Understanding IP Addressing and CIDR Charts
+Resource - https://www.ripe.net/about-us/press-centre/understanding-ip-addressing/
 | IP Addresses   | Bits | Prefix | Subnet Mask          |
 |----------------|------|--------|----------------------|
 | 1              | 0    | /32    | 255.255.255.255      |
